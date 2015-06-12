@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Utils.cs">
+    <Files>
+      <File FileName="Assets/TileScript.cs" Line="17" Column="2" />
+      <File FileName="Assets/CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/TileMapScript.cs" Line="31" Column="5" />
+      <File FileName="../Neon Thrust 2/Assets/Game/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="../Neon Thrust 2/Assets/Resources/Objects/neo/NeoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/iTween.cs" Line="6811" Column="1" />
+      <File FileName="Assets/Main.cs" Line="1" Column="1" />
+      <File FileName="Assets/Utils.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
