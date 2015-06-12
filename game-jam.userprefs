@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Room.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/CursorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TileMapScript.cs" Line="104" Column="43" />
+      <File FileName="Assets/Scripts/Level.cs" Line="20" Column="2" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EditorScript.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

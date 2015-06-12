@@ -9,6 +9,7 @@ public class TileScript : MonoBehaviour {
 	float yPosition;
 
 	void Start () {
+		print ("Start");
 		renderer = GetComponent<Renderer>();
 		yPosition = transform.position.y;
 		showColor = renderer.material.color;
@@ -20,6 +21,7 @@ public class TileScript : MonoBehaviour {
 	}
 	
 	public void show(float yOffset) {
+		print (renderer);
 		if (renderer.enabled == false) {
 			renderer.enabled = true;
 			renderer.material.color = hideColor;
